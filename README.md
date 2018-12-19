@@ -1,0 +1,2 @@
+# appcore
+react-native
